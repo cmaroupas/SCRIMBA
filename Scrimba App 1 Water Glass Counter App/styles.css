@@ -1,6 +1,6 @@
 body {
     background-image: url('https://images.pexels.com/photos/3766180/pexels-photo-3766180.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
-    background-size: contain;
+    background-size: contain; /* Scale the background image to be as large as possible without stretching */
     background-repeat: no-repeat;
     background-position: center;
     font-family: Arial, sans-serif; 
@@ -9,6 +9,7 @@ body {
     margin: 0;
     overflow: hidden;
 }
+
 
 h1 {
     margin-top: 10px;
@@ -57,4 +58,8 @@ button {
     padding: 10px;
     display: inline-block;
     border-radius: 5px;
+}
+
+#description {
+    font-weight: bold;
 }
