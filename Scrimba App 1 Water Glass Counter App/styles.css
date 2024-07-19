@@ -1,6 +1,6 @@
 body {
-    background-image: url('https://images.pexels.com/photos/3766180/pexels-photo-3766180.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
-    background-size: contain; /* Scale the background image to be as large as possible without stretching */
+    background-image: url('https://images.unsplash.com/photo-1595994195534-d5219f02f99f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     font-family: Arial, sans-serif; 
@@ -9,8 +9,8 @@ body {
     margin: 0;
     overflow: hidden;
     background-color: rgb(121, 122, 122);
-}
 
+}
 
 h1 {
     margin-top: 10px;
@@ -33,7 +33,6 @@ button {
     margin-bottom: 5px;
     border-radius: 5px;
     max-width: 200px;
-    
 }
 
 #increment-btn {
@@ -61,7 +60,6 @@ button {
     display: inline-block;
     border-radius: 5px;
 }
-
 #description {
     font-weight: bold;
 }
