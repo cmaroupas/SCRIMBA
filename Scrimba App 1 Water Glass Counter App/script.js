@@ -16,5 +16,5 @@ function save() {
     let countStr = count + " - " // Create a string with the count
     saveEl.textContent += countStr // Add the string to saved counts
     countEl.textContent = 0 // Reset the count display to 0
-    count = 0 // Reset the count to 0
+    count = 0 
 }
