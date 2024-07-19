@@ -8,6 +8,7 @@ body {
     height: 100vh;
     margin: 0;
     overflow: hidden;
+    background-color: rgb(121, 122, 122);
 }
 
 
@@ -32,6 +33,7 @@ button {
     margin-bottom: 5px;
     border-radius: 5px;
     max-width: 200px;
+    
 }
 
 #increment-btn {
