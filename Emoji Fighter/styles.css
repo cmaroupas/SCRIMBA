@@ -22,21 +22,23 @@ h1 {
 
 #stage {
     margin-top: 60px;
-    width: 80%;
-    height: 150px;
+    width: 50%;
+    height: 200px;
     padding: 30px 0;
     font-size: 60px;
     margin: auto;
     transition: transform 0.5s ease, box-shadow 0.5s ease;
     box-shadow: 0 0 25px rgba(0, 0, 0, 0.6); 
-    color: #ff6f61; 
-    background-color: rgba(255, 255, 255, 0.7); 
+    color: #08E7AE; 
+    background-color: rgba(13, 13, 14, 0.7);
+    border: 5px solid #01B2FE;
     border-radius: 10px; 
     display: flex; 
     justify-content: center; 
     align-items: center; 
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
+
 
 button {
     margin-top: 60px;
