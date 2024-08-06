@@ -71,4 +71,3 @@ function render(leads) {
     }
     ulEl.innerHTML = listItems;
 }
-
